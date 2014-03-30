@@ -1,5 +1,5 @@
 
-Chutney Status
+Chutney Status [![Build Status](https://travis-ci.org/MangroveTech/chutney-status.svg)](https://travis-ci.org/MangroveTech/chutney-status)
 ===============
 chutney status icons library based on node-canvas
 
